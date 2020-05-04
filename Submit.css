@@ -1,0 +1,32 @@
+h1{
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  color:Blue;
+  font-size: 38px;
+  text-align: center;
+  text-decoration: underline
+}
+img{
+  margin-top: 100px;
+  margin-left: 570px;
+  margin-right: 570px;
+}
+h2{
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  color:red;
+  font-size:25px;
+  text-align: center;
+
+}
+h3{
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  color:DarkBlue;
+
+  text-align: center;
+
+}

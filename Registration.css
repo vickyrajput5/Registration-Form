@@ -1,0 +1,28 @@
+h1{
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  color:SlateBlue;
+  font-size: 38px;
+  text-align: center;
+  text-decoration: underline
+}
+#table{
+  border: 2px solid navy
+}
+img{
+  margin-left: 450px;
+  margin-top: 50px;
+
+}
+table{
+  font-family: Calibri;
+  color:white;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  background-color: SlateBlue;
+}
+table.inner{
+  border: 0px
+}
